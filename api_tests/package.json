@@ -1,0 +1,11 @@
+{
+  "name": "api_tests",
+  "version": "1.0.0",
+  "description": "API tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "python test_hash_transaction.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
