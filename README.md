@@ -24,8 +24,6 @@ API test build in Python using requests library to verify a POST request
 - Data Driven Testing to reduce repetitive code.
 
 # Front-End-Tests
-
-
 ## Prerequisites
 
 FOLLOW THESE INSTRUCTIONS CAREFULLY:
@@ -46,7 +44,6 @@ if you want to see the browser - `npm run cypress:open`
 to run in headless mode - `npm run cypress:run`
 
 # API Tests
-
 ## Prerequisites
 
 Before running the tests for this application, please make sure that the following prerequisites are met:
@@ -69,3 +66,8 @@ To run the tests for this application, first navigate to the 'api_tests' folder 
 `npm test`
 
 This command will run the test suite and provide the results of the tests. Please ensure that the application is running before running the tests.
+
+
+https://user-images.githubusercontent.com/68429856/224762542-771e0abe-c7e7-40bd-aafa-fa6d0cf1bcb7.mp4
+
+
